@@ -14,7 +14,7 @@ function Footer() {
         </Link>
         <div className="mt-3 xl:mt-5">
             <nav className="flex flex-wrap justify-center text-lg font-medium">
-                <div className="px-5 py-2"><a href="#">Contact</a></div>
+                <div className="px-5 py-2"><a href="https://ansarifareen.github.io/contact">Contact</a></div>
                 <div className="px-5 py-2"><a href="#">Pricing</a></div>
                 <div className="px-5 py-2"><a href="#">Privacy</a></div>
                 <div className="px-5 py-2"><a href="#">Terms</a></div>
