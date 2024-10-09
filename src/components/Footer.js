@@ -8,7 +8,7 @@ function Footer() {
         <h2 className="font-bold text-3xl  leading-snug">
             Ready to get your Creativity back?<br/>Start to Explore today.
         </h2>
-        <Button href="#">Get Started</Button>
+        <Button href="https://ansarifareen.github.io/">Get Started</Button>
         <div className="mt-3 xl:mt-5">
             <nav className="flex flex-wrap justify-center text-lg font-medium">
                 <div className="px-5 py-2"><a href="#">Contact</a></div>
