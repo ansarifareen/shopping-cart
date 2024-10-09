@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shopping-cart/static/css/main.cfa038e1.css",
-    "main.js": "/shopping-cart/static/js/main.3305ed1f.js",
+    "main.js": "/shopping-cart/static/js/main.8e6c5927.js",
     "static/js/453.56709413.chunk.js": "/shopping-cart/static/js/453.56709413.chunk.js",
     "static/media/Shopping.jpg": "/shopping-cart/static/media/Shopping.9e7b064fae253f1501b1.jpg",
     "index.html": "/shopping-cart/index.html",
     "main.cfa038e1.css.map": "/shopping-cart/static/css/main.cfa038e1.css.map",
-    "main.3305ed1f.js.map": "/shopping-cart/static/js/main.3305ed1f.js.map",
+    "main.8e6c5927.js.map": "/shopping-cart/static/js/main.8e6c5927.js.map",
     "453.56709413.chunk.js.map": "/shopping-cart/static/js/453.56709413.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfa038e1.css",
-    "static/js/main.3305ed1f.js"
+    "static/js/main.8e6c5927.js"
   ]
 }
